@@ -1,0 +1,149 @@
+[
+{
+  "model": "accounts.customuser",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$rU5515UcfdbhaL6l7s3hUq$1OnrPga9W2uZelnrrKIkD2qwUzN50AfCzUlMC5c0gOw=",
+    "last_login": "2025-05-27T07:24:39.552Z",
+    "is_superuser": false,
+    "username": "hiqu",
+    "first_name": "히쿠",
+    "last_name": "",
+    "email": "hiqu@naver.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-05-27T07:24:37.485Z",
+    "gender": "M",
+    "age": 16,
+    "weekly_reading_time": 30,
+    "yearly_reading_volume": 12,
+    "profile_image": "profile_image/2025/05/chihiro022_8sNbff4.jpg",
+    "groups": [],
+    "user_permissions": [],
+    "interested_genres": [
+      1,
+      4,
+      7
+    ],
+    "followings": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$205GZ5VmdVkoSJLwG0JaIC$9IXSPlNg9zlXDViMyWELzpN51iGnQ3On3EYkCqlOpho=",
+    "last_login": "2025-05-27T07:33:47.477Z",
+    "is_superuser": false,
+    "username": "sen",
+    "first_name": "센",
+    "last_name": "",
+    "email": "sen@naver.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-05-27T07:33:45.805Z",
+    "gender": "F",
+    "age": 14,
+    "weekly_reading_time": 60,
+    "yearly_reading_volume": 48,
+    "profile_image": "profile_image/2025/05/chihiro019_xz070M3.jpg",
+    "groups": [],
+    "user_permissions": [],
+    "interested_genres": [
+      1,
+      6
+    ],
+    "followings": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$TCrIDzLpS3owJU1mw96cCo$cHXbOxP2vTjK3K5Z414H7vtmmARubeIvOofiG5qKkL8=",
+    "last_login": "2025-05-27T07:37:46.731Z",
+    "is_superuser": false,
+    "username": "san",
+    "first_name": "산",
+    "last_name": "",
+    "email": "san@naver.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-05-27T07:37:45.065Z",
+    "gender": "F",
+    "age": 21,
+    "weekly_reading_time": 10,
+    "yearly_reading_volume": 22,
+    "profile_image": "profile_image/2025/05/mononoke035_fDEL1v8.jpg",
+    "groups": [],
+    "user_permissions": [],
+    "interested_genres": [
+      3,
+      8
+    ],
+    "followings": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$E4Sa9qGQ2lDAZFBqTmMD0x$2fsUaCnsFverHG6RhTsJaYLW9H7HoLdgb2DjGM0Doz8=",
+    "last_login": "2025-05-27T07:38:26.153Z",
+    "is_superuser": false,
+    "username": "totoro",
+    "first_name": "토토로",
+    "last_name": "",
+    "email": "totoro@naver.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-05-27T07:38:24.533Z",
+    "gender": "M",
+    "age": 124,
+    "weekly_reading_time": 11,
+    "yearly_reading_volume": 10,
+    "profile_image": "profile_image/2025/05/totoro044_cyV67RT.jpg",
+    "groups": [],
+    "user_permissions": [],
+    "interested_genres": [
+      1,
+      7
+    ],
+    "followings": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "accounts.customuser",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$GJYakzwNCEj9iYliDzSlzl$Ofo8eu9YWWCJXU6gZA2wkw1mfXSv1lv0oQut1qvrS3c=",
+    "last_login": "2025-05-27T07:49:53.591Z",
+    "is_superuser": false,
+    "username": "kiki",
+    "first_name": "키키",
+    "last_name": "",
+    "email": "kiki@naver.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-05-27T07:49:51.645Z",
+    "gender": "F",
+    "age": 19,
+    "weekly_reading_time": 15,
+    "yearly_reading_volume": 8,
+    "profile_image": "profile_image/2025/05/majo010_SALlVDy.jpg",
+    "groups": [],
+    "user_permissions": [],
+    "interested_genres": [
+      1,
+      4,
+      7
+    ],
+    "followings": [
+      1
+    ]
+  }
+}
+]
